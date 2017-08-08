@@ -195,6 +195,9 @@ y值就 cellY = minColumnHeight
 
 
 
+![image](https://github.com/OlderChicken/CustomLayout/blob/master/pc1.png?raw=true)
+效果图1
 
+![image](https://github.com/OlderChicken/CustomLayout/blob/master/pc2.png?raw=true)
 
-
+效果图2
