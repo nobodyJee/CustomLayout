@@ -196,8 +196,16 @@ y值就 cellY = minColumnHeight
 
 
 ![image](https://github.com/OlderChicken/CustomLayout/blob/master/pc1.png?raw=true)
-效果图1
+效果图2 一个区 无header 无footer
+
 
 ![image](https://github.com/OlderChicken/CustomLayout/blob/master/pc2.png?raw=true)
+效果图1 多区 有header有footer header和footer有间隔
 
-效果图2
+
+
+
+
+![image](https://github.com/OlderChicken/CustomLayout/blob/master/pc3.png?raw=true)
+
+效果图3 多区 有header有footer header和footer无间隔
