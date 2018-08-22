@@ -73,6 +73,6 @@
 
 看个人博客
 
-[原理解释](https://juejin.im/post/5a5274e46fb9a01c9f5b3eee)
+[原理解释](http://www.wuchao.net.cn/2017/08/07/%E8%87%AA%E5%AE%9A%E4%B9%89collocationViewLayout%E5%AE%9E%E7%8E%B0%E7%80%91%E5%B8%83%E6%B5%81/)
 
 ***如果解决了您的问题,请给个 start 鼓励*** 
